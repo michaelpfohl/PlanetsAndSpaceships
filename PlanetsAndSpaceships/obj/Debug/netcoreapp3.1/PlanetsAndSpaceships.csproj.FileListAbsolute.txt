@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.exe
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.deps.json
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.runtimeconfig.json
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.dll
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\bin\Debug\netcoreapp3.1\PlanetsAndSpaceships.pdb
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.dll
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.pdb
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.genruntimeconfig.cache
+C:\Users\rmpfo\source\repos\PlanetsAndSpaceships\PlanetsAndSpaceships\obj\Debug\netcoreapp3.1\PlanetsAndSpaceships.csprojAssemblyReference.cache
